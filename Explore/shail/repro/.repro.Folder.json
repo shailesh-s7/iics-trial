@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3DwK5XhpTQfcuMNWsB8Qsj",
+    "name" : "repro",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-03-15T10:28:17.522Z",
+  "objectRefs" : [ ]
+}
