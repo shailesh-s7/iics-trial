@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "e6yxgkjONQAbPvFGIZ0pqH",
+    "name" : "shail",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-03-15T09:58:42.024Z",
+  "objectRefs" : [ ]
+}
